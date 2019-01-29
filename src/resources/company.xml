@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Company>
+		<Employee>
+			<employeeId>101</employeeId>
+			<employeeName>Priya</employeeName>
+			<salary>40000</salary>
+			
+		</Employee>
+		<Employee>
+			<employeeId>202</employeeId>
+			<employeeName>Ajay</employeeName>
+			<salary>30000</salary>
+			
+
+		</Employee>
+</Company>
